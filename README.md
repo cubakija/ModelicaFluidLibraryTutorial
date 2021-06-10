@@ -1,5 +1,5 @@
 # ModelicaFluidLibraryTutorial
-Open CAE Symposium 2017- Excellent tutorials (Google) translated from Japanese.
+Excellent tutorials (Google) translated from Japanese.
 All credit goes to the author  Shu Tanaka (Amane Ryuken Co., Ltd.) and Open CAE Symposium, 11th Modelica Study library Meeting
 
 I do not know the word of Japanese, but I mange to get meaningful English text  using available online tools.
