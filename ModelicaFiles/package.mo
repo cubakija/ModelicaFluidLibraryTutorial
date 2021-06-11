@@ -1,3 +1,0 @@
-package JapanValves
-
-end JapanValves;
